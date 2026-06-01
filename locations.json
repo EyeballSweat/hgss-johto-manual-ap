@@ -1,0 +1,523 @@
+[
+    {
+        "name": "Receive Starter Pokemon",
+        "region": "New Bark and Cherrygrove",
+        "category": [
+            "Early Johto"
+        ],
+        "sort-key": "001"
+    },
+    {
+        "name": "Defeat Rival on Route 29",
+        "region": "New Bark and Cherrygrove",
+        "category": [
+            "Early Johto"
+        ],
+        "sort-key": "002"
+    },
+    {
+        "name": "Receive Pokedex",
+        "region": "New Bark and Cherrygrove",
+        "category": [
+            "Early Johto"
+        ],
+        "sort-key": "003"
+    },
+    {
+        "name": "Deliver Mystery Egg",
+        "region": "New Bark and Cherrygrove",
+        "category": [
+            "Early Johto"
+        ],
+        "sort-key": "004"
+    },
+    {
+        "name": "Clear Route 30 Trainer Path",
+        "region": "New Bark and Cherrygrove",
+        "category": [
+            "Early Johto"
+        ],
+        "sort-key": "005"
+    },
+    {
+        "name": "Reach Violet City",
+        "region": "Violet City",
+        "category": [
+            "Early Johto"
+        ],
+        "sort-key": "006"
+    },
+    {
+        "name": "Clear Sprout Tower",
+        "region": "Violet City",
+        "category": [
+            "Early Johto",
+            "Story Checks"
+        ],
+        "sort-key": "007"
+    },
+    {
+        "name": "Defeat Falkner",
+        "region": "Violet City",
+        "category": [
+            "Gym Checks"
+        ],
+        "requires": "|Sprout Tower Clearance|",
+        "sort-key": "008"
+    },
+    {
+        "name": "Receive Togepi Egg",
+        "region": "Violet City",
+        "category": [
+            "Early Johto"
+        ],
+        "requires": "|Zephyr Badge|",
+        "sort-key": "009"
+    },
+    {
+        "name": "Clear Route 32",
+        "region": "Route 32 and Union Cave",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "010"
+    },
+    {
+        "name": "Clear Union Cave",
+        "region": "Route 32 and Union Cave",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "011"
+    },
+    {
+        "name": "Clear Slowpoke Well",
+        "region": "Azalea Town",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "012"
+    },
+    {
+        "name": "Defeat Bugsy",
+        "region": "Azalea Town",
+        "category": [
+            "Gym Checks"
+        ],
+        "requires": "|Slowpoke Well Clearance|",
+        "sort-key": "013"
+    },
+    {
+        "name": "Defeat Rival in Azalea",
+        "region": "Azalea Town",
+        "category": [
+            "Story Checks"
+        ],
+        "requires": "|Hive Badge|",
+        "sort-key": "014"
+    },
+    {
+        "name": "Receive HM01 Cut",
+        "region": "Azalea Town",
+        "category": [
+            "Story Checks"
+        ],
+        "requires": "|Hive Badge|",
+        "sort-key": "015"
+    },
+    {
+        "name": "Clear Ilex Forest",
+        "region": "Ilex Forest",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "016"
+    },
+    {
+        "name": "Reach Goldenrod City",
+        "region": "Goldenrod City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "017"
+    },
+    {
+        "name": "Defeat Whitney",
+        "region": "Goldenrod City",
+        "category": [
+            "Gym Checks"
+        ],
+        "sort-key": "018"
+    },
+    {
+        "name": "Receive SquirtBottle",
+        "region": "Goldenrod City",
+        "category": [
+            "Story Checks"
+        ],
+        "requires": "|Plain Badge|",
+        "sort-key": "019"
+    },
+    {
+        "name": "Clear National Park",
+        "region": "Goldenrod City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "020"
+    },
+    {
+        "name": "Clear Goldenrod Underground",
+        "region": "Goldenrod City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "021"
+    },
+    {
+        "name": "Defeat Sudowoodo",
+        "region": "Sudowoodo Crossing",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "022"
+    },
+    {
+        "name": "Reach Ecruteak City",
+        "region": "Ecruteak City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "023"
+    },
+    {
+        "name": "Defeat Rival in Burned Tower",
+        "region": "Ecruteak City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "024"
+    },
+    {
+        "name": "Release Legendary Beasts",
+        "region": "Ecruteak City",
+        "category": [
+            "Story Checks"
+        ],
+        "requires": "|Burned Tower Clearance|",
+        "sort-key": "025"
+    },
+    {
+        "name": "Clear Dance Theater Rocket",
+        "region": "Ecruteak City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "026"
+    },
+    {
+        "name": "Receive HM03 Surf",
+        "region": "Ecruteak City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "027"
+    },
+    {
+        "name": "Defeat Morty",
+        "region": "Ecruteak City",
+        "category": [
+            "Gym Checks"
+        ],
+        "requires": "|Burned Tower Clearance|",
+        "sort-key": "028"
+    },
+    {
+        "name": "Reach Olivine City",
+        "region": "Olivine City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "029"
+    },
+    {
+        "name": "Reach Lighthouse Top",
+        "region": "Olivine City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "030"
+    },
+    {
+        "name": "Reach Cianwood City",
+        "region": "Cianwood City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "031"
+    },
+    {
+        "name": "Receive SecretPotion",
+        "region": "Cianwood City",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "032"
+    },
+    {
+        "name": "Defeat Chuck",
+        "region": "Cianwood City",
+        "category": [
+            "Gym Checks"
+        ],
+        "sort-key": "033"
+    },
+    {
+        "name": "Heal Amphy",
+        "region": "Olivine City",
+        "category": [
+            "Story Checks"
+        ],
+        "requires": "|SecretPotion| and |Lighthouse Clearance|",
+        "sort-key": "034"
+    },
+    {
+        "name": "Defeat Jasmine",
+        "region": "Olivine City",
+        "category": [
+            "Gym Checks"
+        ],
+        "requires": "|SecretPotion| and |Lighthouse Clearance|",
+        "sort-key": "035"
+    },
+    {
+        "name": "Reach Mahogany Town",
+        "region": "Mahogany Town",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "036"
+    },
+    {
+        "name": "Reach Lake of Rage",
+        "region": "Lake of Rage",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "037"
+    },
+    {
+        "name": "Defeat Red Gyarados",
+        "region": "Lake of Rage",
+        "category": [
+            "Story Checks"
+        ],
+        "sort-key": "038"
+    },
+    {
+        "name": "Enter Rocket Hideout",
+        "region": "Rocket Hideout",
+        "category": [
+            "Rocket Arc"
+        ],
+        "requires": "|Lake of Rage Clearance|",
+        "sort-key": "039"
+    },
+    {
+        "name": "Clear Rocket Hideout",
+        "region": "Rocket Hideout",
+        "category": [
+            "Rocket Arc"
+        ],
+        "requires": "|Lake of Rage Clearance|",
+        "sort-key": "040"
+    },
+    {
+        "name": "Defeat Pryce",
+        "region": "Mahogany Town",
+        "category": [
+            "Gym Checks"
+        ],
+        "requires": "|Rocket Hideout Clearance|",
+        "sort-key": "041"
+    },
+    {
+        "name": "Begin Radio Tower Takeover",
+        "region": "Radio Tower",
+        "category": [
+            "Rocket Arc"
+        ],
+        "sort-key": "042"
+    },
+    {
+        "name": "Receive Rocket Uniform",
+        "region": "Radio Tower",
+        "category": [
+            "Rocket Arc"
+        ],
+        "sort-key": "043"
+    },
+    {
+        "name": "Defeat Rival in Underground",
+        "region": "Radio Tower Underground",
+        "category": [
+            "Rocket Arc"
+        ],
+        "requires": "|Basement Key|",
+        "sort-key": "044"
+    },
+    {
+        "name": "Clear Underground Warehouse",
+        "region": "Radio Tower Underground",
+        "category": [
+            "Rocket Arc"
+        ],
+        "requires": "|Basement Key|",
+        "sort-key": "045"
+    },
+    {
+        "name": "Receive Card Key",
+        "region": "Radio Tower Underground",
+        "category": [
+            "Rocket Arc"
+        ],
+        "requires": "|Basement Key|",
+        "sort-key": "046"
+    },
+    {
+        "name": "Clear Radio Tower",
+        "region": "Radio Tower Finale",
+        "category": [
+            "Rocket Arc"
+        ],
+        "requires": "|Card Key|",
+        "sort-key": "047"
+    },
+    {
+        "name": "Defeat Archer",
+        "region": "Radio Tower Finale",
+        "category": [
+            "Rocket Arc"
+        ],
+        "requires": "|Card Key|",
+        "sort-key": "048"
+    },
+    {
+        "name": "Reach Ice Path",
+        "region": "Ice Path",
+        "category": [
+            "Endgame"
+        ],
+        "sort-key": "049"
+    },
+    {
+        "name": "Reach Blackthorn City",
+        "region": "Blackthorn City",
+        "category": [
+            "Endgame"
+        ],
+        "sort-key": "050"
+    },
+    {
+        "name": "Defeat Clair",
+        "region": "Blackthorn City",
+        "category": [
+            "Gym Checks"
+        ],
+        "sort-key": "051"
+    },
+    {
+        "name": "Clear Dragons Den",
+        "region": "Dragons Den",
+        "category": [
+            "Endgame"
+        ],
+        "sort-key": "052"
+    },
+    {
+        "name": "Receive Master Ball",
+        "region": "Endgame Story",
+        "category": [
+            "Endgame"
+        ],
+        "requires": "|Dragons Den Clearance|",
+        "sort-key": "053"
+    },
+    {
+        "name": "Defeat Kimono Girls",
+        "region": "Endgame Story",
+        "category": [
+            "Endgame"
+        ],
+        "requires": "|Rising Badge|",
+        "sort-key": "054"
+    },
+    {
+        "name": "Clear Box Legendary Event",
+        "region": "Endgame Story",
+        "category": [
+            "Endgame"
+        ],
+        "requires": "|Kimono Girls Clearance|",
+        "sort-key": "055"
+    },
+    {
+        "name": "Reach Victory Road",
+        "region": "Victory Road",
+        "category": [
+            "Endgame"
+        ],
+        "sort-key": "056"
+    },
+    {
+        "name": "Defeat Rival in Victory Road",
+        "region": "Victory Road",
+        "category": [
+            "Endgame"
+        ],
+        "sort-key": "057"
+    },
+    {
+        "name": "Defeat Will",
+        "region": "Pokemon League",
+        "category": [
+            "Pokemon League"
+        ],
+        "sort-key": "058"
+    },
+    {
+        "name": "Defeat Koga",
+        "region": "Pokemon League",
+        "category": [
+            "Pokemon League"
+        ],
+        "sort-key": "059"
+    },
+    {
+        "name": "Defeat Bruno",
+        "region": "Pokemon League",
+        "category": [
+            "Pokemon League"
+        ],
+        "sort-key": "060"
+    },
+    {
+        "name": "Defeat Karen",
+        "region": "Pokemon League",
+        "category": [
+            "Pokemon League"
+        ],
+        "sort-key": "061"
+    },
+    {
+        "name": "Defeat Lance",
+        "region": "Pokemon League",
+        "category": [
+            "Pokemon League",
+            "Endgame"
+        ],
+        "victory": true,
+        "sort-key": "062",
+        "hint_entrance": "Victory location. Click this only after defeating Lance and entering the Hall of Fame."
+    }
+]

@@ -1,0 +1,10 @@
+# Sample YAML for HGSS Johto Manual AP v0.1
+# This may need to be regenerated from your installed Manual version.
+
+name: HGSS_Player
+game: Manual_PokemonHeartGoldSoulSilverJohto_HGSSPrototype
+
+Manual_PokemonHeartGoldSoulSilverJohto_HGSSPrototype:
+  progression_balancing: 50
+  accessibility: items
+  goal: Defeat Lance

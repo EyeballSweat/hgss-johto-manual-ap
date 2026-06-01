@@ -1,0 +1,347 @@
+[
+    {
+        "name": "Sprout Tower Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-001"
+    },
+    {
+        "name": "Zephyr Badge",
+        "category": [
+            "Badge Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-002"
+    },
+    {
+        "name": "Slowpoke Well Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-003"
+    },
+    {
+        "name": "Hive Badge",
+        "category": [
+            "Badge Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-004"
+    },
+    {
+        "name": "Cut Permission",
+        "category": [
+            "HM Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-005"
+    },
+    {
+        "name": "Plain Badge",
+        "category": [
+            "Badge Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-006"
+    },
+    {
+        "name": "SquirtBottle",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-007"
+    },
+    {
+        "name": "Burned Tower Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-008"
+    },
+    {
+        "name": "Fog Badge",
+        "category": [
+            "Badge Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-009"
+    },
+    {
+        "name": "Surf Permission",
+        "category": [
+            "HM Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-010"
+    },
+    {
+        "name": "Lighthouse Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-011"
+    },
+    {
+        "name": "SecretPotion",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-012"
+    },
+    {
+        "name": "Storm Badge",
+        "category": [
+            "Badge Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-013"
+    },
+    {
+        "name": "Mineral Badge",
+        "category": [
+            "Badge Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-014"
+    },
+    {
+        "name": "Lake of Rage Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-015"
+    },
+    {
+        "name": "Rocket Hideout Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-016"
+    },
+    {
+        "name": "Glacier Badge",
+        "category": [
+            "Badge Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-017"
+    },
+    {
+        "name": "Rocket Uniform",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-018"
+    },
+    {
+        "name": "Basement Key",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-019"
+    },
+    {
+        "name": "Card Key",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-020"
+    },
+    {
+        "name": "Radio Tower Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-021"
+    },
+    {
+        "name": "RageCandyBar Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-022"
+    },
+    {
+        "name": "Strength Permission",
+        "category": [
+            "HM Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-023"
+    },
+    {
+        "name": "Rising Badge",
+        "category": [
+            "Badge Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-024"
+    },
+    {
+        "name": "Whirlpool Permission",
+        "category": [
+            "HM Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-025"
+    },
+    {
+        "name": "Dragons Den Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-026"
+    },
+    {
+        "name": "Waterfall Permission",
+        "category": [
+            "HM Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-027"
+    },
+    {
+        "name": "Kimono Girls Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-028"
+    },
+    {
+        "name": "Legendary Clearance",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-029"
+    },
+    {
+        "name": "Elite Four Access",
+        "category": [
+            "Story Permissions"
+        ],
+        "progression": true,
+        "sort-key": "01-030"
+    },
+    {
+        "name": "Fly Permission",
+        "category": [
+            "HM Permissions",
+            "Useful Permissions"
+        ],
+        "useful": true,
+        "sort-key": "02-001"
+    },
+    {
+        "name": "Rock Smash Permission",
+        "category": [
+            "HM Permissions",
+            "Useful Permissions"
+        ],
+        "useful": true,
+        "sort-key": "02-002"
+    },
+    {
+        "name": "Bike Permission",
+        "category": [
+            "Useful Permissions"
+        ],
+        "useful": true,
+        "sort-key": "02-003"
+    },
+    {
+        "name": "Good Rod Permission",
+        "category": [
+            "Useful Permissions"
+        ],
+        "useful": true,
+        "sort-key": "02-004"
+    },
+    {
+        "name": "Super Rod Permission",
+        "category": [
+            "Useful Permissions"
+        ],
+        "useful": true,
+        "sort-key": "02-005"
+    },
+    {
+        "name": "Rare Candy",
+        "category": [
+            "Filler"
+        ],
+        "filler": true,
+        "count": 5,
+        "sort-key": "03-001"
+    },
+    {
+        "name": "Money Bundle",
+        "category": [
+            "Filler"
+        ],
+        "filler": true,
+        "count": 5,
+        "sort-key": "03-002"
+    },
+    {
+        "name": "Healing Item Bundle",
+        "category": [
+            "Filler"
+        ],
+        "filler": true,
+        "count": 5,
+        "sort-key": "03-003"
+    },
+    {
+        "name": "Poke Ball Bundle",
+        "category": [
+            "Filler"
+        ],
+        "filler": true,
+        "count": 4,
+        "sort-key": "03-004"
+    },
+    {
+        "name": "Random TM",
+        "category": [
+            "Filler"
+        ],
+        "filler": true,
+        "count": 3,
+        "sort-key": "03-005"
+    },
+    {
+        "name": "Held Item",
+        "category": [
+            "Filler"
+        ],
+        "filler": true,
+        "count": 2,
+        "sort-key": "03-006"
+    },
+    {
+        "name": "Battle Item Bundle",
+        "category": [
+            "Filler"
+        ],
+        "filler": true,
+        "count": 2,
+        "sort-key": "03-007"
+    }
+]

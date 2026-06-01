@@ -1,0 +1,129 @@
+{
+    "New Bark and Cherrygrove": {
+        "starting": true,
+        "connects_to": [
+            "Violet City"
+        ]
+    },
+    "Violet City": {
+        "connects_to": [
+            "Route 32 and Union Cave"
+        ]
+    },
+    "Route 32 and Union Cave": {
+        "requires": "|Zephyr Badge|",
+        "connects_to": [
+            "Azalea Town"
+        ]
+    },
+    "Azalea Town": {
+        "requires": "|Zephyr Badge|",
+        "connects_to": [
+            "Ilex Forest"
+        ]
+    },
+    "Ilex Forest": {
+        "requires": "|Hive Badge| and |Cut Permission|",
+        "connects_to": [
+            "Goldenrod City"
+        ]
+    },
+    "Goldenrod City": {
+        "requires": "|Hive Badge| and |Cut Permission|",
+        "connects_to": [
+            "Sudowoodo Crossing"
+        ]
+    },
+    "Sudowoodo Crossing": {
+        "requires": "|Plain Badge| and |SquirtBottle|",
+        "connects_to": [
+            "Ecruteak City"
+        ]
+    },
+    "Ecruteak City": {
+        "requires": "|Plain Badge| and |SquirtBottle|",
+        "connects_to": [
+            "Olivine City",
+            "Mahogany Town"
+        ]
+    },
+    "Olivine City": {
+        "requires": "|Plain Badge| and |SquirtBottle|",
+        "connects_to": [
+            "Cianwood City"
+        ]
+    },
+    "Cianwood City": {
+        "requires": "|Surf Permission|",
+        "connects_to": []
+    },
+    "Mahogany Town": {
+        "requires": "|Fog Badge|",
+        "connects_to": [
+            "Lake of Rage"
+        ]
+    },
+    "Lake of Rage": {
+        "requires": "|Fog Badge| and |Surf Permission|",
+        "connects_to": [
+            "Rocket Hideout"
+        ]
+    },
+    "Rocket Hideout": {
+        "requires": "|Lake of Rage Clearance|",
+        "connects_to": [
+            "Radio Tower"
+        ]
+    },
+    "Radio Tower": {
+        "requires": "|Glacier Badge|",
+        "connects_to": [
+            "Radio Tower Underground"
+        ]
+    },
+    "Radio Tower Underground": {
+        "requires": "|Glacier Badge| and |Rocket Uniform| and |Basement Key|",
+        "connects_to": [
+            "Radio Tower Finale"
+        ]
+    },
+    "Radio Tower Finale": {
+        "requires": "|Glacier Badge| and |Card Key|",
+        "connects_to": [
+            "Ice Path"
+        ]
+    },
+    "Ice Path": {
+        "requires": "|Radio Tower Clearance| and |RageCandyBar Clearance| and |Strength Permission|",
+        "connects_to": [
+            "Blackthorn City"
+        ]
+    },
+    "Blackthorn City": {
+        "requires": "|Radio Tower Clearance| and |RageCandyBar Clearance| and |Strength Permission|",
+        "connects_to": [
+            "Dragons Den"
+        ]
+    },
+    "Dragons Den": {
+        "requires": "|Rising Badge| and |Whirlpool Permission|",
+        "connects_to": [
+            "Endgame Story"
+        ]
+    },
+    "Endgame Story": {
+        "requires": "|Dragons Den Clearance| and |Waterfall Permission|",
+        "connects_to": [
+            "Victory Road"
+        ]
+    },
+    "Victory Road": {
+        "requires": "|Dragons Den Clearance| and |Waterfall Permission| and |Kimono Girls Clearance| and |Legendary Clearance| and |Elite Four Access|",
+        "connects_to": [
+            "Pokemon League"
+        ]
+    },
+    "Pokemon League": {
+        "requires": "|Dragons Den Clearance| and |Waterfall Permission| and |Kimono Girls Clearance| and |Legendary Clearance| and |Elite Four Access|"
+    }
+}
